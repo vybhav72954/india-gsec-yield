@@ -1,4 +1,4 @@
-# SAAPM Project 1 — India 10Y G-Sec Univariate Time Series
+# India 10Y G-Sec Univariate Time Series
 
 Univariate analysis and forecasting of the daily India 10-year Government
 Security yield (Bloomberg via FRTL Lab, 2010-01-01 → 2026-05-21, n = 4,275
