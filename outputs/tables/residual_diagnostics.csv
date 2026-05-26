@@ -1,0 +1,4 @@
+,diagnostic,null,stat,pvalue,reject@5%
+0,Ljung-Box lag 10,no residual autocorrelation,1.058352289499034,0.9997768754095928,False
+1,Jarque-Bera,normal residuals,1832569767.7731857,0.0,True
+2,ARCH-LM lag 10,no ARCH effects,399.2903596117616,1.3328120399830501e-79,True

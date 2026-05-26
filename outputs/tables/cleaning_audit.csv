@@ -1,0 +1,9 @@
+,metric,value
+0,raw_rows,5130
+1,raw_nan,0
+2,raw_saturdays,855
+3,saturdays_equal_previous_observation,855
+4,clean_rows_mon_fri,4275
+5,clean_nan,0
+6,clean_start,2010-01-01
+7,clean_end,2026-05-21

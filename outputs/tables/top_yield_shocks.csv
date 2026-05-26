@@ -1,0 +1,26 @@
+date,dy_pp,dy_bps,abs_dy_bps,is_5mad_shock,nearest_named_event,event_gap_days,nearest_festival,suggested_classification
+2013-07-16,0.5380000000000011,53.80000000000011,53.80000000000011,True,RBI MSF tightening 2013,1,no festival w/in window,named policy/global event window
+2013-08-21,-0.5100000000000016,-51.000000000000156,51.000000000000156,True,No named event within window,30,no festival w/in window,unexplained / market-specific shock
+2013-08-27,0.4029999999999987,40.29999999999987,40.29999999999987,True,No named event within window,24,no festival w/in window,unexplained / market-specific shock
+2013-08-16,0.395999999999999,39.5999999999999,39.5999999999999,True,No named event within window,32,Eid_al_Fitr,unexplained / market-specific shock
+2010-05-04,-0.3730000000000002,-37.300000000000026,37.300000000000026,True,No named event within window,1114,no festival w/in window,unexplained / market-specific shock
+2020-05-13,-0.367,-36.7,36.7,True,No named event within window,63,no festival w/in window,unexplained / market-specific shock
+2013-09-20,0.36599999999999966,36.599999999999966,36.599999999999966,True,RBI MSF rollback 2013,0,no festival w/in window,named policy/global event window
+2019-01-14,-0.3639999999999999,-36.39999999999999,36.39999999999999,True,No named event within window,422,no festival w/in window,unexplained / market-specific shock
+2013-11-25,-0.34800000000000075,-34.800000000000075,34.800000000000075,True,No named event within window,66,no festival w/in window,unexplained / market-specific shock
+2013-08-19,0.34500000000000064,34.500000000000064,34.500000000000064,True,No named event within window,32,Eid_al_Fitr,unexplained / market-specific shock
+2013-09-23,0.3150000000000013,31.500000000000128,31.500000000000128,True,RBI MSF rollback 2013,3,no festival w/in window,named policy/global event window
+2013-08-20,-0.3149999999999995,-31.49999999999995,31.49999999999995,True,No named event within window,31,no festival w/in window,unexplained / market-specific shock
+2017-02-08,0.30799999999999983,30.799999999999983,30.799999999999983,True,No named event within window,92,no festival w/in window,unexplained / market-specific shock
+2018-03-27,-0.29000000000000004,-29.000000000000004,29.000000000000004,True,No named event within window,504,no festival w/in window,unexplained / market-specific shock
+2022-05-04,0.2610000000000001,26.100000000000012,26.100000000000012,True,RBI hawkish pivot,0,Eid_al_Fitr,named policy/global event window
+2013-07-24,0.25099999999999945,25.099999999999945,25.099999999999945,True,RBI MSF tightening 2013,9,no festival w/in window,named policy/global event window
+2012-06-12,-0.24900000000000055,-24.900000000000055,24.900000000000055,True,No named event within window,344,no festival w/in window,unexplained / market-specific shock
+2014-07-28,-0.238999999999999,-23.8999999999999,23.8999999999999,True,No named event within window,311,Eid_al_Fitr,unexplained / market-specific shock
+2013-08-28,0.23099999999999987,23.099999999999987,23.099999999999987,True,No named event within window,23,no festival w/in window,unexplained / market-specific shock
+2019-10-09,-0.2239999999999993,-22.39999999999993,22.39999999999993,True,No named event within window,154,Durga_Puja,unexplained / market-specific shock
+2012-04-03,0.21300000000000097,21.300000000000097,21.300000000000097,True,No named event within window,414,no festival w/in window,unexplained / market-specific shock
+2016-12-07,0.20500000000000007,20.500000000000007,20.500000000000007,True,No named event within window,29,no festival w/in window,unexplained / market-specific shock
+2022-04-08,0.2030000000000003,20.30000000000003,20.30000000000003,True,No named event within window,26,no festival w/in window,unexplained / market-specific shock
+2013-09-06,0.1999999999999993,19.99999999999993,19.99999999999993,True,No named event within window,14,no festival w/in window,unexplained / market-specific shock
+2016-09-12,-0.19700000000000006,-19.700000000000006,19.700000000000006,True,No named event within window,57,no festival w/in window,unexplained / market-specific shock

@@ -13,19 +13,12 @@ outliers syllabus, with a brief Appendix A on conditional-variance modelling.
 |---|---|
 | `Univariate_India_10Y_Yield_v2.ipynb` | **The submission.** 27 main-body sections + 6 suffix subsections (6b HEGY, 8b break-aware unit roots, 9b SARIMA, 11b fixed-scheme robustness, 17b descriptive shock list, 19b empirical PI) + Appendix A (GARCH excursion). Runs end-to-end on the cleaned Monday–Friday series. |
 
-Earlier iterations (the pre-appendix full notebook, the lightweight Sessions 1–2
-version, and the notebook generator) are kept locally under `archive/` and are
-not part of the published repository.
 
 ## Scripts
 
 | File | Purpose |
 |---|---|
 | `build_clean_data.py` | Cleans the raw vendor parquet files into `clean_data/india_10y_weekday.csv` and related panel CSVs. Removes Saturday carry-forwards. |
-
-The signal-location and standalone-workflow diagnostics that earlier lived in
-separate scripts are now reproduced inside the notebook (Section 22 and the
-main body) on the cleaned series; the original scripts are kept under `archive/`.
 
 ## Setup
 
@@ -40,8 +33,6 @@ Then either:
 python build_clean_data.py      # rebuild cleaned CSVs
 jupyter notebook Univariate_India_10Y_Yield_v2.ipynb
 ```
-
-The notebook regenerates the cleaned data on demand if `clean_data/` is missing.
 
 ## Headline result
 

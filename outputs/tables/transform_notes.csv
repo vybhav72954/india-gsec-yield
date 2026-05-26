@@ -1,0 +1,5 @@
+,candidate,used,reason
+0,Level yield,Yes,Economic object of interest; useful for plots and forecast levels.
+1,Log yield,No,Yield is already a rate; log transform has weak economic interpretation.
+2,First difference,Yes,Stabilizes the mean for an I(1) yield level series.
+3,Variance transform,No,Variance instability is modeled explicitly with GARCH-family models.

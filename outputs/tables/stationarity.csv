@@ -1,0 +1,13 @@
+,series,test,stat,pvalue,null,reject@5%
+0,level,ADF tau (n),-0.4716430988668989,0.507741644581651,unit root,False
+1,level,ADF tau_mu (c),-1.8706319590175051,0.3460003414480487,unit root,False
+2,level,ADF tau_tau (ct),-2.43617671524119,0.3605699628578797,unit root,False
+3,level,Phillips-Perron (c),-1.7464828015973286,0.407336132238169,unit root,False
+4,level,KPSS (c),6.001446920985626,0.01,stationary,True
+5,level,KPSS (ct),0.6466325839484317,0.01,stationary,True
+6,first difference,ADF tau (n),-11.053708805912228,5.561296400545578e-20,unit root,True
+7,first difference,ADF tau_mu (c),-11.055808733975562,4.94844813477902e-20,unit root,True
+8,first difference,ADF tau_tau (ct),-11.054093003461304,1.7581462407808025e-17,unit root,True
+9,first difference,Phillips-Perron (c),-62.64278937395134,0.0,unit root,True
+10,first difference,KPSS (c),0.0688316785731576,0.1,stationary,False
+11,first difference,KPSS (ct),0.06861111153584501,0.1,stationary,False

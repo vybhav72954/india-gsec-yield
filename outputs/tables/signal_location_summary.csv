@@ -1,0 +1,6 @@
+question,test,stat_or_value,pvalue,signal,interpretation
+Linear mean dependence in Delta yield?,Ljung-Box lag 10,72.82379633900769,1.2596998540194612e-11,Weak / statistically present,Short-run dependence exists but does not translate into strong OOS mean dominance.
+Random-walk null rejected?,Variance Ratio q=5,0.21697406542126169,0.0,Yes,"Departure from RW behavior, consistent with mean reversion at some horizons."
+Direction/sign predictability?,Pesaran-Timmermann momentum sign,0.48969727804629865,0.19632868757987554,No,Naive sign momentum is near 50%; direction is not the main signal.
+Variance predictability?,McLeod-Li lag 10,986.3435562523772,1.6350436247643176e-205,Strong,Squared yield changes are highly dependent; supports GARCH.
+Long memory in volatility?,Hurst on |Delta yield|,0.7967224436850595,,Present,High Hurst in absolute changes supports persistent volatility clustering.

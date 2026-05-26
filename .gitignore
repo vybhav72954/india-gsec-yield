@@ -19,7 +19,6 @@ env/
 .ipynb_checkpoints/
 
 # Generated project artifacts
-outputs/
 clean_data/
 yield_curve_report.html
 RESULT.md

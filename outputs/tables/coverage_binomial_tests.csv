@@ -1,0 +1,3 @@
+interval,nominal_coverage,inside,n,empirical_coverage,binom_pvalue,reject_nominal@5%
+80%,0.8,821,855,0.960233918128655,8.981920379539062e-43,True
+95%,0.95,848,855,0.991812865497076,1.7461204492723658e-11,True

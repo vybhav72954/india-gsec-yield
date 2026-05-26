@@ -1,0 +1,8 @@
+,model,AIC,BIC,LjungBox_p10,ARCH_LM_p10,OOS_RMSE,OOS_MAE,DM_p_vs_RW,interpretation
+0,"ARIMA(0, 1, 3) on level",-14277.302642322053,-14251.861420578536,0.9997768754095928,1.3328120399830501e-79,0.026549704986805624,0.01883998288422725,0.271708131869135,Primary mean baseline; no significant OOS gain vs RW.
+1,"ARMA(0,3) + trading_days_in_month",-14282.306515245662,-14244.144682630387,0.2907908726895227,1.6081327828646692e-80,,,,In-sample deterministic-control diagnostic on yield changes.
+2,"ARMA(0,3) on dy",-14275.334765351636,-14243.53323817224,0.30191178389550544,2.4933123486180375e-80,,,,In-sample deterministic-control diagnostic on yield changes.
+3,"ARMA(0,3) + weekday",-14298.49887197763,-14241.256123054718,0.163982067507657,1.179163061973032e-80,,,,In-sample deterministic-control diagnostic on yield changes.
+4,"ARMA(0,3) + events",-14298.171282405168,-14215.48731173874,0.25239904502866517,3.501512484272287e-95,,,,In-sample deterministic-control diagnostic on yield changes.
+5,"ARMA(0,3) + festivals",-14270.146605069189,-14212.903856146277,0.31664768559713014,7.067670260687398e-80,,,,In-sample deterministic-control diagnostic on yield changes.
+6,"ARMA(0,3) + weekday + events + festivals + tdm",-14323.307031344671,-14183.38031175533,0.09001735279421641,1.106270215688024e-94,,,,In-sample deterministic-control diagnostic on yield changes.

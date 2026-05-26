@@ -1,0 +1,3 @@
+,test,F,pvalue,reject@5%
+0,weekday effect in Delta yield,9.570241993890889,1.0588359354180917e-07,True
+1,month-of-year effect in Delta yield,1.2936950233250035,0.22095542195060205,False
