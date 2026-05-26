@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated project artifacts
+outputs/
+clean_data/
+yield_curve_report.html
+RESULT.md
+
+# Notebook backups + agent working scratch (patches, prototypes, run logs)
+*.backup_*.ipynb
+_apply_*.py
+_proto_*.py
+_v2_check*.ipynb
+_v2_run*.log
+claude_code_prompt.md
+Project1_Univariate_India_10Y_Yield.ipynb
+
+# Archived / superseded project files (kept locally, not for GitHub)
+archive/
+
+# Raw/local data caches
+yield_curve_data/cache/
+pharma_data/cache/
+*.parquet
+
+# Notebook generator artifact
+create_univariate_notebook.py
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# LLM and coding-agent artifacts
+.claude/
+.gemini/
+.codex/
+.cursor/
+.continue/
+.aider*
+CLAUDE.md
+GEMINI.md
+.windsurf/
