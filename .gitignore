@@ -22,6 +22,7 @@ env/
 clean_data/
 yield_curve_report.html
 RESULT.md
+india_10y_full_analysis.R
 
 # Notebook backups + agent working scratch (patches, prototypes, run logs)
 *.backup_*.ipynb
